@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tagText"
+    style="@style/TextAppearance.AppCompat.Caption"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/spacing_xs"
+    android:layout_marginHorizontal="@dimen/spacing_xs"
+    android:layout_marginVertical="@dimen/spacing_xs"
+    android:background="@drawable/feed_item_placeholder_background"
+    android:backgroundTint="@color/design_default_color_primary"
+    android:elevation="@dimen/elevation_feed_item"
+    android:ellipsize="end"
+    android:maxLength="20"
+    android:maxLines="1"
+    android:padding="@dimen/spacing_xs"
+    tools:text="TAG VERY LONG TAG">
+
+</TextView>

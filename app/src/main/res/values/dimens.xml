@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="spacing_xs">8dp</dimen>
+    <dimen name="spacing_s">16dp</dimen>
+    <dimen name="spacing_m">24dp</dimen>
+    <dimen name="spacing_l">32dp</dimen>
+    <dimen name="spacing_xl">48dp</dimen>
+
+    <dimen name="text_size_xs">10sp</dimen>
+    <dimen name="text_size_s">16sp</dimen>
+    <dimen name="text_size_m">24sp</dimen>
+    <dimen name="text_size_l">32sp</dimen>
+
+    <dimen name="list_item_placeholder_radius">8dp</dimen>
+    <dimen name="list_item_image_size">80dp</dimen>
+    <dimen name="list_item_detail_description_height">80dp</dimen>
+
+
+    <dimen name="elevation_feed_item">8dp</dimen>
+    <dimen name="elevation_close_button">10dp</dimen>
+
+    <dimen name="icon_size_s">8dp</dimen>
+    <dimen name="icon_size_m">16dp</dimen>
+    <dimen name="icon_size_l">24dp</dimen>
+    <dimen name="icon_size_xl">48dp</dimen>
+</resources>
